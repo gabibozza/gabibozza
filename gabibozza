@@ -20,9 +20,9 @@
     </style>
 </head>
 <body>
-    <img src="IMG_6538.jpg" alt="Minha Foto">
+    <img src="IMG_6538.PNG" alt="Minha Foto">
     <audio controls autoplay>
-        <source src="Música maria -2.mp3" type="audio/mp3">
+        <source src="Música maria -2.m4a" type="audio/m4a">
         Seu navegador não suporta o elemento de áudio.
     </audio>
 </body>
