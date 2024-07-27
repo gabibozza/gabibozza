@@ -3,9 +3,27 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Minha Foto</title>
+    <title>Minha Foto e Música</title>
+    <style>
+        body {
+            text-align: center;
+            margin-top: 50px;
+            font-family: Arial, sans-serif;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        audio {
+            margin-top: 20px;
+        }
+    </style>
 </head>
-<body style="text-align: center; margin-top: 50px;">
-    <img src="IMG_6538.jpg" alt="Minha Foto" style="max-width: 100%; height: auto;">
+<body>
+    <img src="IMG_6538.jpg" alt="Minha Foto">
+    <audio controls autoplay>
+        <source src="Música maria -2.mp3" type="audio/mp3">
+        Seu navegador não suporta o elemento de áudio.
+    </audio>
 </body>
 </html>
